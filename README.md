@@ -2,6 +2,10 @@
 
 Single-page Vue 3 application for browsing a catalog of games. The app includes client-side search, provider filtering, paginated results, and a game details page.
 
+## Demo
+
+- https://game-blond-mu.vercel.app/#/
+
 ## Features
 
 - Search games by name.
